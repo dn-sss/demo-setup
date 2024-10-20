@@ -66,3 +66,4 @@ fi
 # Remove some packages
 sudo apt-get autoremove -y python3-pygame man manpages galculator
 
+sudo reboot now
